@@ -1,0 +1,10 @@
+{
+  "name": "quick about-blank",
+  "version": "0.1",
+  "description": "developer console - about:blank - new tab",
+  "background": {
+    "scripts": ["background.js"],
+    "persistant": false
+  },
+  "manifest_version": 2
+}
